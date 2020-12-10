@@ -26,5 +26,3 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
-# End of https://www.gitignore.io/api/maven,java-web,netbeans
